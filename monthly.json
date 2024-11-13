@@ -1,659 +1,1712 @@
-[
-  {
-    "metadata": {
-      "month": "OCTOBER 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.1725,
-          "afterTaxReturn": 12.915000000000001,
-          "realReturn": 11.235
-        }
-      }
+{
+  "summary": {
+    "totalMonths": 9,
+    "dateRange": {
+      "start": "JANUARY 2024",
+      "end": "OCTOBER 2024"
     },
-    "funds": [
-      {
-        "fundManager": "Cytonn Money Market Fund",
-        "nominalRate": 18.1,
-        "afterTaxReturn": 15.385,
-        "realReturn": 14.0425
-      },
-      {
-        "fundManager": "Lofty Corban Money Market Fund",
-        "nominalRate": 17.990000000000002,
-        "afterTaxReturn": 15.2925,
-        "realReturn": 13.932500000000001
-      },
-      {
-        "fundManager": "Etica Money Market Fund",
-        "nominalRate": 17.22,
-        "afterTaxReturn": 14.6375,
-        "realReturn": 13.192499999999999
-      },
-      {
-        "fundManager": "Arvocap Money Market Fund",
-        "nominalRate": 16.965,
-        "afterTaxReturn": 14.4225,
-        "realReturn": 12.945
-      },
-      {
-        "fundManager": "Kuza Money Market Fund",
-        "nominalRate": 17,
-        "afterTaxReturn": 14.4525,
-        "realReturn": 12.98
-      },
-      {
-        "fundManager": "GenAfrica Money Market Fund",
-        "nominalRate": 16.1475,
-        "afterTaxReturn": 13.725,
-        "realReturn": 12.157499999999999
-      },
-      {
-        "fundManager": "Nabo Africa Money Market Fund",
-        "nominalRate": 15.835,
-        "afterTaxReturn": 13.46,
-        "realReturn": 11.852500000000001
-      },
-      {
-        "fundManager": "Jubilee Money Market Fund",
-        "nominalRate": 15.6025,
-        "afterTaxReturn": 13.26,
-        "realReturn": 11.63
-      },
-      {
-        "fundManager": "Madison Money Market Fund",
-        "nominalRate": 15.0525,
-        "afterTaxReturn": 12.7975,
-        "realReturn": 11.1025
-      },
-      {
-        "fundManager": "Co-op Money Market Fund",
-        "nominalRate": 15.36,
-        "afterTaxReturn": 13.06,
-        "realReturn": 11.395
-      },
-      {
-        "fundManager": "KCB Money Market Fund",
-        "nominalRate": 15.5075,
-        "afterTaxReturn": 13.1825,
-        "realReturn": 11.540000000000001
-      },
-      {
-        "fundManager": "Sanlam Money Market Fund",
-        "nominalRate": 14.98,
-        "afterTaxReturn": 12.732500000000002,
-        "realReturn": 11.0275
-      },
-      {
-        "fundManager": "ABSA Shilling MMF",
-        "nominalRate": 15.03,
-        "afterTaxReturn": 12.78,
-        "realReturn": 11.0825
-      },
-      {
-        "fundManager": "Enwealth Money Market Fund",
-        "nominalRate": 15.056666666666665,
-        "afterTaxReturn": 12.796666666666667,
-        "realReturn": 11.103333333333333
-      },
-      {
-        "fundManager": "Mali Money Market Fund",
-        "nominalRate": 15.0625,
-        "afterTaxReturn": 12.8025,
-        "realReturn": 11.1125
-      },
-      {
-        "fundManager": "Mayfair Money Market Fund",
-        "nominalRate": 13.537500000000001,
-        "afterTaxReturn": 11.5075,
-        "realReturn": 9.6375
-      },
-      {
-        "fundManager": "Faulu Money Market Fund",
-        "nominalRate": 15.01,
-        "afterTaxReturn": 12.756666666666666,
-        "realReturn": 11.056666666666667
-      },
-      {
-        "fundManager": "Orient Kasha Money Market Fund",
-        "nominalRate": 14.7725,
-        "afterTaxReturn": 12.557500000000001,
-        "realReturn": 10.8275
-      },
-      {
-        "fundManager": "Genghis Money Market Fund",
-        "nominalRate": 14.42,
-        "afterTaxReturn": 12.2575,
-        "realReturn": 10.490000000000002
-      },
-      {
-        "fundManager": "African Alliance Kenya Money Market Fund",
-        "nominalRate": 14.3225,
-        "afterTaxReturn": 12.172500000000001,
-        "realReturn": 10.3975
-      },
-      {
-        "fundManager": "Dry Associates Money Market Fund",
-        "nominalRate": 14.059999999999999,
-        "afterTaxReturn": 11.95,
-        "realReturn": 10.1425
-      },
-      {
-        "fundManager": "Old Mutual Money Market Fund",
-        "nominalRate": 14.0075,
-        "afterTaxReturn": 11.907499999999999,
-        "realReturn": 10.09
-      },
-      {
-        "fundManager": "Apollo Money Market Fund",
-        "nominalRate": 14.735,
-        "afterTaxReturn": 12.525,
-        "realReturn": 10.795000000000002
-      },
-      {
-        "fundManager": "CIC Money Market Fund",
-        "nominalRate": 13.7,
-        "afterTaxReturn": 11.65,
-        "realReturn": 9.7925
-      },
-      {
-        "fundManager": "ICEA Lion Money Market Fund",
-        "nominalRate": 13.657499999999999,
-        "afterTaxReturn": 11.61,
-        "realReturn": 9.75
-      },
-      {
-        "fundManager": "British-American Money Market Fund",
-        "nominalRate": 13.194999999999999,
-        "afterTaxReturn": 11.215,
-        "realReturn": 9.3075
-      },
-      {
-        "fundManager": "Equity Money Market Fund",
-        "nominalRate": 13.25,
-        "afterTaxReturn": 11.2625,
-        "realReturn": 9.362499999999999
-      }
-    ]
+    "averageNumberOfFunds": 17.11
   },
-  {
-    "metadata": {
-      "month": "SEPTEMBER 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.493333333333334,
-          "afterTaxReturn": 13.203333333333333,
-          "realReturn": 10.696666666666667
+  "monthlyData": [
+    {
+      "metadata": {
+        "month": "JANUARY 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 13.74,
+            "afterTaxReturn": 11.82,
+            "realReturn": 6.82,
+            "dataPoints": 7
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 13.74,
+              "median": 13.74,
+              "stdDev": 0.18
+            },
+            "afterTaxReturn": {
+              "average": 11.82,
+              "median": 11.8,
+              "stdDev": 0.14
+            },
+            "realReturn": {
+              "average": 6.82,
+              "median": 6.79,
+              "stdDev": 0.16
+            },
+            "dataPoints": 7
+          }
+        },
+        "summary": {
+          "totalFunds": 25,
+          "topPerformer": {
+            "name": "Etica Money Market Fund",
+            "nominalRate": 17.03,
+            "afterTaxReturn": 14.48,
+            "realReturn": 9.75,
+            "dataPoints": 7,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "British-American Money Market Fund",
+            "nominalRate": 9.74,
+            "afterTaxReturn": 8.28,
+            "realReturn": 2.91,
+            "dataPoints": 7,
+            "rank": 25
+          }
         }
-      }
+      },
+      "funds": [
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 17.03,
+          "afterTaxReturn": 14.48,
+          "realReturn": 9.75,
+          "dataPoints": 7,
+          "rank": 1
+        },
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 16.35,
+          "afterTaxReturn": 13.9,
+          "realReturn": 9.11,
+          "dataPoints": 7,
+          "rank": 2
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 16.04,
+          "afterTaxReturn": 13.64,
+          "realReturn": 8.82,
+          "dataPoints": 7,
+          "rank": 3
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16,
+          "afterTaxReturn": 13.59,
+          "realReturn": 8.78,
+          "dataPoints": 7,
+          "rank": 4
+        },
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 15.6,
+          "afterTaxReturn": 13.26,
+          "realReturn": 8.4,
+          "dataPoints": 7,
+          "rank": 5
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.18,
+          "afterTaxReturn": 12.9,
+          "realReturn": 8.02,
+          "dataPoints": 7,
+          "rank": 6
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 14.87,
+          "afterTaxReturn": 12.64,
+          "realReturn": 7.72,
+          "dataPoints": 7,
+          "rank": 7
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 14.74,
+          "afterTaxReturn": 12.53,
+          "realReturn": 7.6,
+          "dataPoints": 7,
+          "rank": 8
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 14.43,
+          "afterTaxReturn": 12.26,
+          "realReturn": 7.31,
+          "dataPoints": 7,
+          "rank": 9
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 14.25,
+          "afterTaxReturn": 12.11,
+          "realReturn": 7.13,
+          "dataPoints": 7,
+          "rank": 10
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 13.93,
+          "afterTaxReturn": 11.84,
+          "realReturn": 6.84,
+          "dataPoints": 7,
+          "rank": 11
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 13.9,
+          "afterTaxReturn": 11.81,
+          "realReturn": 6.81,
+          "dataPoints": 7,
+          "rank": 12
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 13.57,
+          "afterTaxReturn": 11.54,
+          "realReturn": 6.5,
+          "dataPoints": 7,
+          "rank": 13
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 13.52,
+          "afterTaxReturn": 11.49,
+          "realReturn": 6.46,
+          "dataPoints": 7,
+          "rank": 14
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 13.4,
+          "afterTaxReturn": 11.39,
+          "realReturn": 6.34,
+          "dataPoints": 7,
+          "rank": 15
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 12.96,
+          "afterTaxReturn": 11.02,
+          "realReturn": 5.93,
+          "dataPoints": 7,
+          "rank": 16
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 12.88,
+          "afterTaxReturn": 10.95,
+          "realReturn": 5.85,
+          "dataPoints": 7,
+          "rank": 17
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 12.77,
+          "afterTaxReturn": 10.85,
+          "realReturn": 5.75,
+          "dataPoints": 7,
+          "rank": 18
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 12.72,
+          "afterTaxReturn": 10.81,
+          "realReturn": 5.71,
+          "dataPoints": 7,
+          "rank": 19
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 12.62,
+          "afterTaxReturn": 10.72,
+          "realReturn": 5.61,
+          "dataPoints": 7,
+          "rank": 20
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 12.01,
+          "afterTaxReturn": 10.21,
+          "realReturn": 5.04,
+          "dataPoints": 7,
+          "rank": 21
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 11.8,
+          "afterTaxReturn": 10.03,
+          "realReturn": 4.84,
+          "dataPoints": 7,
+          "rank": 22
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 11.75,
+          "afterTaxReturn": 9.99,
+          "realReturn": 4.8,
+          "dataPoints": 7,
+          "rank": 23
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 11.5,
+          "afterTaxReturn": 9.78,
+          "realReturn": 4.56,
+          "dataPoints": 7,
+          "rank": 24
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 9.74,
+          "afterTaxReturn": 8.28,
+          "realReturn": 2.91,
+          "dataPoints": 7,
+          "rank": 25
+        }
+      ]
     },
-    "funds": [
-      {
-        "fundManager": "Cytonn Money Market Fund",
-        "nominalRate": 18.2,
-        "afterTaxReturn": 15.47,
-        "realReturn": 13.25
+    {
+      "metadata": {
+        "month": "FEBRUARY 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 14.29,
+            "afterTaxReturn": 12.3,
+            "realReturn": 7.13,
+            "dataPoints": 3
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 14.29,
+              "median": 14.29,
+              "stdDev": 0.02
+            },
+            "afterTaxReturn": {
+              "average": 12.3,
+              "median": 12.3,
+              "stdDev": 0.02
+            },
+            "realReturn": {
+              "average": 7.13,
+              "median": 7.13,
+              "stdDev": 0.02
+            },
+            "dataPoints": 3
+          }
+        },
+        "summary": {
+          "totalFunds": 26,
+          "topPerformer": {
+            "name": "Etica Money Market Fund",
+            "nominalRate": 17.36,
+            "afterTaxReturn": 14.75,
+            "realReturn": 9.83,
+            "dataPoints": 3,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "British-American Money Market Fund",
+            "nominalRate": 10.07,
+            "afterTaxReturn": 8.56,
+            "realReturn": 3.02,
+            "dataPoints": 3,
+            "rank": 26
+          }
+        }
       },
-      {
-        "fundManager": "Lofty Corban Money Market Fund",
-        "nominalRate": 18.169999999999998,
-        "afterTaxReturn": 15.443333333333333,
-        "realReturn": 13.219999999999999
+      "funds": [
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 17.36,
+          "afterTaxReturn": 14.75,
+          "realReturn": 9.83,
+          "dataPoints": 3,
+          "rank": 1
+        },
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 17.11,
+          "afterTaxReturn": 14.54,
+          "realReturn": 9.6,
+          "dataPoints": 3,
+          "rank": 2
+        },
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 16.7,
+          "afterTaxReturn": 14.2,
+          "realReturn": 9.22,
+          "dataPoints": 3,
+          "rank": 3
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16.04,
+          "afterTaxReturn": 13.63,
+          "realReturn": 8.6,
+          "dataPoints": 3,
+          "rank": 4
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.79,
+          "afterTaxReturn": 13.42,
+          "realReturn": 8.37,
+          "dataPoints": 3,
+          "rank": 5
+        },
+        {
+          "name": "Isuza Money Market Fund",
+          "nominalRate": 15.71,
+          "afterTaxReturn": 13.35,
+          "realReturn": 8.29,
+          "dataPoints": 1,
+          "rank": 6
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 15.65,
+          "afterTaxReturn": 13.31,
+          "realReturn": 8.24,
+          "dataPoints": 3,
+          "rank": 7
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 15.44,
+          "afterTaxReturn": 13.12,
+          "realReturn": 8.04,
+          "dataPoints": 2,
+          "rank": 8
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 15.19,
+          "afterTaxReturn": 12.91,
+          "realReturn": 7.81,
+          "dataPoints": 3,
+          "rank": 9
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 15.12,
+          "afterTaxReturn": 12.85,
+          "realReturn": 7.74,
+          "dataPoints": 3,
+          "rank": 10
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 14.79,
+          "afterTaxReturn": 12.57,
+          "realReturn": 7.43,
+          "dataPoints": 3,
+          "rank": 11
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 14.76,
+          "afterTaxReturn": 12.55,
+          "realReturn": 7.4,
+          "dataPoints": 3,
+          "rank": 12
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 14.54,
+          "afterTaxReturn": 12.36,
+          "realReturn": 7.2,
+          "dataPoints": 3,
+          "rank": 13
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 14.38,
+          "afterTaxReturn": 12.23,
+          "realReturn": 7.05,
+          "dataPoints": 3,
+          "rank": 14
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 14.32,
+          "afterTaxReturn": 12.17,
+          "realReturn": 6.99,
+          "dataPoints": 3,
+          "rank": 15
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 13.99,
+          "afterTaxReturn": 11.89,
+          "realReturn": 6.69,
+          "dataPoints": 3,
+          "rank": 16
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 13.97,
+          "afterTaxReturn": 11.87,
+          "realReturn": 6.66,
+          "dataPoints": 3,
+          "rank": 17
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 13.74,
+          "afterTaxReturn": 11.68,
+          "realReturn": 6.45,
+          "dataPoints": 3,
+          "rank": 18
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 13.41,
+          "afterTaxReturn": 11.4,
+          "realReturn": 6.14,
+          "dataPoints": 3,
+          "rank": 19
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 13.4,
+          "afterTaxReturn": 11.39,
+          "realReturn": 6.13,
+          "dataPoints": 3,
+          "rank": 20
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 13,
+          "afterTaxReturn": 11.05,
+          "realReturn": 5.75,
+          "dataPoints": 3,
+          "rank": 21
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 12.66,
+          "afterTaxReturn": 10.76,
+          "realReturn": 5.44,
+          "dataPoints": 3,
+          "rank": 22
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 12.39,
+          "afterTaxReturn": 10.53,
+          "realReturn": 5.19,
+          "dataPoints": 3,
+          "rank": 23
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 11.93,
+          "afterTaxReturn": 10.14,
+          "realReturn": 4.76,
+          "dataPoints": 3,
+          "rank": 24
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 11.5,
+          "afterTaxReturn": 9.78,
+          "realReturn": 4.35,
+          "dataPoints": 3,
+          "rank": 25
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 10.07,
+          "afterTaxReturn": 8.56,
+          "realReturn": 3.02,
+          "dataPoints": 3,
+          "rank": 26
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "month": "MARCH 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 14.79,
+            "afterTaxReturn": 12.74,
+            "realReturn": 8.29,
+            "dataPoints": 5
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 14.79,
+              "median": 14.88,
+              "stdDev": 0.21
+            },
+            "afterTaxReturn": {
+              "average": 12.74,
+              "median": 12.82,
+              "stdDev": 0.19
+            },
+            "realReturn": {
+              "average": 8.29,
+              "median": 8.25,
+              "stdDev": 0.37
+            },
+            "dataPoints": 5
+          }
+        },
+        "summary": {
+          "totalFunds": 25,
+          "topPerformer": {
+            "name": "Etica Money Market Fund",
+            "nominalRate": 17.81,
+            "afterTaxReturn": 15.13,
+            "realReturn": 10.94,
+            "dataPoints": 5,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "British-American Money Market Fund",
+            "nominalRate": 10,
+            "afterTaxReturn": 8.5,
+            "realReturn": 3.59,
+            "dataPoints": 5,
+            "rank": 25
+          }
+        }
       },
-      {
-        "fundManager": "Etica Money Market Fund",
-        "nominalRate": 17.583333333333332,
-        "afterTaxReturn": 14.946666666666667,
-        "realReturn": 12.660000000000002
-      },
-      {
-        "fundManager": "Arvocap Money Market Fund",
-        "nominalRate": 17.296666666666667,
-        "afterTaxReturn": 14.703333333333333,
-        "realReturn": 12.383333333333333
-      },
-      {
-        "fundManager": "Kuza Money Market Fund",
-        "nominalRate": 17.053333333333335,
-        "afterTaxReturn": 14.496666666666664,
-        "realReturn": 12.153333333333334
-      },
-      {
-        "fundManager": "GenAfrica Money Market Fund",
-        "nominalRate": 16.62,
-        "afterTaxReturn": 14.123333333333333,
-        "realReturn": 11.736666666666666
-      },
-      {
-        "fundManager": "ABSA Shilling MMF",
-        "nominalRate": 16.04,
-        "afterTaxReturn": 13.63,
-        "realReturn": 11.18
-      },
-      {
-        "fundManager": "Jubilee Money Market Fund",
-        "nominalRate": 16.026666666666667,
-        "afterTaxReturn": 13.623333333333333,
-        "realReturn": 11.166666666666666
-      },
-      {
-        "fundManager": "Nabo Africa Money Market Fund",
-        "nominalRate": 15.96,
-        "afterTaxReturn": 13.566666666666668,
-        "realReturn": 11.103333333333332
-      },
-      {
-        "fundManager": "Enwealth Money Market Fund",
-        "nominalRate": 15.979999999999999,
-        "afterTaxReturn": 13.58,
-        "realReturn": 11.12
-      },
-      {
-        "fundManager": "Madison Money Market Fund",
-        "nominalRate": 15.536666666666667,
-        "afterTaxReturn": 13.206666666666669,
-        "realReturn": 10.696666666666665
-      },
-      {
-        "fundManager": "Co-op Money Market Fund",
-        "nominalRate": 15.503333333333332,
-        "afterTaxReturn": 13.176666666666668,
-        "realReturn": 10.666666666666666
-      },
-      {
-        "fundManager": "KCB Money Market Fund",
-        "nominalRate": 15.315,
-        "afterTaxReturn": 13.02,
-        "realReturn": 10.485
-      },
-      {
-        "fundManager": "Genghis Money Market Fund",
-        "nominalRate": 15.416666666666666,
-        "afterTaxReturn": 13.103333333333333,
-        "realReturn": 10.586666666666666
-      },
-      {
-        "fundManager": "Apollo Money Market Fund",
-        "nominalRate": 15.1,
-        "afterTaxReturn": 12.839999999999998,
-        "realReturn": 10.28
-      },
-      {
-        "fundManager": "Mali Money Market Fund",
-        "nominalRate": 15.053333333333333,
-        "afterTaxReturn": 12.793333333333331,
-        "realReturn": 10.233333333333333
-      },
-      {
-        "fundManager": "Sanlam Money Market Fund",
-        "nominalRate": 15.280000000000001,
-        "afterTaxReturn": 12.986666666666666,
-        "realReturn": 10.450000000000001
-      },
-      {
-        "fundManager": "Orient Kasha Money Market Fund",
-        "nominalRate": 14.976666666666667,
-        "afterTaxReturn": 12.729999999999999,
-        "realReturn": 10.163333333333334
-      },
-      {
-        "fundManager": "Mayfair Money Market Fund",
-        "nominalRate": 15.086666666666668,
-        "afterTaxReturn": 12.826666666666668,
-        "realReturn": 10.27
-      },
-      {
-        "fundManager": "African Alliance Kenya Money Market Fund",
-        "nominalRate": 14.856666666666667,
-        "afterTaxReturn": 12.63,
-        "realReturn": 10.046666666666667
-      },
-      {
-        "fundManager": "Dry Associates Money Market Fund",
-        "nominalRate": 14.106666666666667,
-        "afterTaxReturn": 11.993333333333334,
-        "realReturn": 9.33
-      },
-      {
-        "fundManager": "Old Mutual Money Market Fund",
-        "nominalRate": 14.073333333333332,
-        "afterTaxReturn": 11.963333333333333,
-        "realReturn": 9.299999999999999
-      },
-      {
-        "fundManager": "ICEA Lion Money Market Fund",
-        "nominalRate": 13.906666666666666,
-        "afterTaxReturn": 11.823333333333332,
-        "realReturn": 9.136666666666668
-      },
-      {
-        "fundManager": "CIC Money Market Fund",
-        "nominalRate": 13.699999999999998,
-        "afterTaxReturn": 11.65,
-        "realReturn": 8.94
-      },
-      {
-        "fundManager": "British-American Money Market Fund",
-        "nominalRate": 13.216666666666667,
-        "afterTaxReturn": 11.233333333333334,
-        "realReturn": 8.476666666666667
-      },
-      {
-        "fundManager": "Equity Money Market Fund",
-        "nominalRate": 12.713333333333333,
-        "afterTaxReturn": 10.806666666666667,
-        "realReturn": 7.993333333333333
-      },
-      {
-        "fundManager": "NCB Money Market Fund",
-        "nominalRate": 15.97,
-        "afterTaxReturn": 13.57,
-        "realReturn": 11.11
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "AUGUST 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.559999999999999,
+      "funds": [
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 17.81,
+          "afterTaxReturn": 15.13,
+          "realReturn": 10.94,
+          "dataPoints": 5,
+          "rank": 1
+        },
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 17.67,
+          "afterTaxReturn": 15.02,
+          "realReturn": 10.81,
+          "dataPoints": 5,
+          "rank": 2
+        },
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 16.88,
+          "afterTaxReturn": 14.35,
+          "realReturn": 10.07,
+          "dataPoints": 5,
+          "rank": 3
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 16.66,
+          "afterTaxReturn": 14.16,
+          "realReturn": 9.87,
+          "dataPoints": 5,
+          "rank": 4
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16.5,
+          "afterTaxReturn": 14.03,
+          "realReturn": 9.72,
+          "dataPoints": 5,
+          "rank": 5
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 15.97,
+          "afterTaxReturn": 13.57,
+          "realReturn": 9.21,
+          "dataPoints": 5,
+          "rank": 6
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.87,
+          "afterTaxReturn": 13.49,
+          "realReturn": 9.12,
+          "dataPoints": 5,
+          "rank": 7
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 15.69,
           "afterTaxReturn": 13.34,
-          "realReturn": 10.889999999999999
+          "realReturn": 8.95,
+          "dataPoints": 5,
+          "rank": 8
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 15.57,
+          "afterTaxReturn": 13.24,
+          "realReturn": 8.84,
+          "dataPoints": 5,
+          "rank": 9
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 15.13,
+          "afterTaxReturn": 12.86,
+          "realReturn": 8.42,
+          "dataPoints": 5,
+          "rank": 10
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 15.13,
+          "afterTaxReturn": 12.86,
+          "realReturn": 8.42,
+          "dataPoints": 5,
+          "rank": 11
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 14.91,
+          "afterTaxReturn": 12.68,
+          "realReturn": 8.22,
+          "dataPoints": 5,
+          "rank": 12
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 14.87,
+          "afterTaxReturn": 12.64,
+          "realReturn": 8.18,
+          "dataPoints": 5,
+          "rank": 13
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 14.86,
+          "afterTaxReturn": 12.63,
+          "realReturn": 8.17,
+          "dataPoints": 5,
+          "rank": 14
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 14.82,
+          "afterTaxReturn": 12.6,
+          "realReturn": 8.13,
+          "dataPoints": 5,
+          "rank": 15
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 14.65,
+          "afterTaxReturn": 12.45,
+          "realReturn": 7.97,
+          "dataPoints": 5,
+          "rank": 16
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 14.57,
+          "afterTaxReturn": 12.38,
+          "realReturn": 7.89,
+          "dataPoints": 5,
+          "rank": 17
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 14.29,
+          "afterTaxReturn": 12.15,
+          "realReturn": 7.63,
+          "dataPoints": 5,
+          "rank": 18
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 13.51,
+          "afterTaxReturn": 11.48,
+          "realReturn": 6.9,
+          "dataPoints": 5,
+          "rank": 19
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 13.46,
+          "afterTaxReturn": 11.44,
+          "realReturn": 6.85,
+          "dataPoints": 5,
+          "rank": 20
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 13.42,
+          "afterTaxReturn": 11.41,
+          "realReturn": 6.81,
+          "dataPoints": 5,
+          "rank": 21
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 12.71,
+          "afterTaxReturn": 10.8,
+          "realReturn": 6.14,
+          "dataPoints": 5,
+          "rank": 22
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 12.52,
+          "afterTaxReturn": 10.64,
+          "realReturn": 5.96,
+          "dataPoints": 5,
+          "rank": 23
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 12.28,
+          "afterTaxReturn": 10.44,
+          "realReturn": 5.74,
+          "dataPoints": 5,
+          "rank": 24
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 10,
+          "afterTaxReturn": 8.5,
+          "realReturn": 3.59,
+          "dataPoints": 5,
+          "rank": 25
         }
-      }
+      ]
     },
-    "funds": [
-      {
-        "fundManager": "Cytonn Money Market Fund",
-        "nominalRate": 18.28,
-        "afterTaxReturn": 15.538,
-        "realReturn": 13.370000000000001
-      },
-      {
-        "fundManager": "Lofty Corban Money Market Fund",
-        "nominalRate": 18.222,
-        "afterTaxReturn": 15.49,
-        "realReturn": 13.314000000000002
-      },
-      {
-        "fundManager": "Etica Money Market Fund",
-        "nominalRate": 18.142000000000003,
-        "afterTaxReturn": 15.419999999999998,
-        "realReturn": 13.238
-      },
-      {
-        "fundManager": "Kuza Money Market Fund",
-        "nominalRate": 17.262,
-        "afterTaxReturn": 14.674000000000001,
-        "realReturn": 12.398
-      },
-      {
-        "fundManager": "Arvocap Money Market Fund",
-        "nominalRate": 17.2225,
-        "afterTaxReturn": 14.6375,
-        "realReturn": 12.355
-      },
-      {
-        "fundManager": "GenAfrica Money Market Fund",
-        "nominalRate": 16.74,
-        "afterTaxReturn": 14.228000000000003,
-        "realReturn": 11.893999999999998
-      },
-      {
-        "fundManager": "Nabo Africa Money Market Fund",
-        "nominalRate": 16.398000000000003,
-        "afterTaxReturn": 13.940000000000001,
-        "realReturn": 11.568000000000001
-      },
-      {
-        "fundManager": "Jubilee Money Market Fund",
-        "nominalRate": 16.104,
-        "afterTaxReturn": 13.687999999999999,
-        "realReturn": 11.284000000000002
-      },
-      {
-        "fundManager": "Enwealth Money Market Fund",
-        "nominalRate": 15.986,
-        "afterTaxReturn": 13.586000000000002,
-        "realReturn": 11.174
-      },
-      {
-        "fundManager": "KCB Money Market Fund",
-        "nominalRate": 15.684000000000001,
-        "afterTaxReturn": 13.331999999999999,
-        "realReturn": 10.882000000000001
-      },
-      {
-        "fundManager": "Genghis Money Market Fund",
-        "nominalRate": 15.95,
-        "afterTaxReturn": 13.56,
-        "realReturn": 11.1
-      },
-      {
-        "fundManager": "Sanlam Money Market Fund",
-        "nominalRate": 15.642000000000001,
-        "afterTaxReturn": 13.296000000000001,
-        "realReturn": 10.84
-      },
-      {
-        "fundManager": "Co-op Money Market Fund",
-        "nominalRate": 15.644,
-        "afterTaxReturn": 13.298000000000002,
-        "realReturn": 10.843999999999998
-      },
-      {
-        "fundManager": "Madison Money Market Fund",
-        "nominalRate": 15.456,
-        "afterTaxReturn": 13.136,
-        "realReturn": 10.662
-      },
-      {
-        "fundManager": "Mayfair Money Market Fund",
-        "nominalRate": 15.366,
-        "afterTaxReturn": 13.062000000000001,
-        "realReturn": 10.578
-      },
-      {
-        "fundManager": "Apollo Money Market Fund",
-        "nominalRate": 15.416,
-        "afterTaxReturn": 13.101999999999999,
-        "realReturn": 10.626000000000001
-      },
-      {
-        "fundManager": "Mali Money Market Fund",
-        "nominalRate": 15.184000000000001,
-        "afterTaxReturn": 12.904000000000002,
-        "realReturn": 10.404
-      },
-      {
-        "fundManager": "Orient Kasha Money Market Fund",
-        "nominalRate": 14.418000000000001,
-        "afterTaxReturn": 12.254000000000001,
-        "realReturn": 9.67
-      },
-      {
-        "fundManager": "African Alliance Kenya Money Market Fund",
-        "nominalRate": 15.086000000000002,
-        "afterTaxReturn": 12.824000000000002,
-        "realReturn": 10.307999999999998
-      },
-      {
-        "fundManager": "Dry Associates Money Market Fund",
-        "nominalRate": 14.004,
-        "afterTaxReturn": 11.904,
-        "realReturn": 9.272
-      },
-      {
-        "fundManager": "ICEA Lion Money Market Fund",
-        "nominalRate": 13.724,
-        "afterTaxReturn": 11.665999999999999,
-        "realReturn": 9.004000000000001
-      },
-      {
-        "fundManager": "CIC Money Market Fund",
-        "nominalRate": 13.7,
-        "afterTaxReturn": 11.65,
-        "realReturn": 8.98
-      },
-      {
-        "fundManager": "Old Mutual Money Market Fund",
-        "nominalRate": 13.584,
-        "afterTaxReturn": 11.547999999999998,
-        "realReturn": 8.870000000000001
-      },
-      {
-        "fundManager": "British-American Money Market Fund",
-        "nominalRate": 13.35,
-        "afterTaxReturn": 11.348,
-        "realReturn": 8.644000000000002
-      },
-      {
-        "fundManager": "Equity Money Market Fund",
-        "nominalRate": 12.648,
-        "afterTaxReturn": 10.752,
-        "realReturn": 7.973999999999999
-      },
-      {
-        "fundManager": "GenCap Hela Imara Money Market Fund",
-        "nominalRate": 16.2025,
-        "afterTaxReturn": 13.7725,
-        "realReturn": 11.3925
-      },
-      {
-        "fundManager": "Absa Shilling Money Market Fund",
-        "nominalRate": 15.54,
-        "afterTaxReturn": 13.21,
-        "realReturn": 10.76
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "JULY 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.479999999999999,
-          "afterTaxReturn": 13.256666666666666,
-          "realReturn": 10.47
+    {
+      "metadata": {
+        "month": "MAY 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.13,
+            "afterTaxReturn": 13.04,
+            "realReturn": 9.85,
+            "dataPoints": 2
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.13,
+              "median": 15.13,
+              "stdDev": 0.12
+            },
+            "afterTaxReturn": {
+              "average": 13.04,
+              "median": 13.04,
+              "stdDev": 0.11
+            },
+            "realReturn": {
+              "average": 9.85,
+              "median": 9.85,
+              "stdDev": 0.12
+            },
+            "dataPoints": 2
+          }
+        },
+        "summary": {
+          "totalFunds": 25,
+          "topPerformer": {
+            "name": "Lofty Corban Money Market Fund",
+            "nominalRate": 18.32,
+            "afterTaxReturn": 15.57,
+            "realReturn": 12.68,
+            "dataPoints": 2,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "British-American Money Market Fund",
+            "nominalRate": 10.06,
+            "afterTaxReturn": 8.55,
+            "realReturn": 4.82,
+            "dataPoints": 2,
+            "rank": 25
+          }
         }
-      }
-    },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 15.48013333333333,
-        "afterTaxReturn": 13.1584,
-        "realReturn": 10.35933333333333
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "JUNE 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.164285714285715,
-          "afterTaxReturn": 13.08,
-          "realReturn": 9.821428571428571
+      },
+      "funds": [
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 18.32,
+          "afterTaxReturn": 15.57,
+          "realReturn": 12.68,
+          "dataPoints": 2,
+          "rank": 1
+        },
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 18.03,
+          "afterTaxReturn": 15.33,
+          "realReturn": 12.41,
+          "dataPoints": 2,
+          "rank": 2
+        },
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 17.38,
+          "afterTaxReturn": 14.77,
+          "realReturn": 11.79,
+          "dataPoints": 2,
+          "rank": 3
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 16.84,
+          "afterTaxReturn": 14.31,
+          "realReturn": 11.27,
+          "dataPoints": 2,
+          "rank": 4
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16.61,
+          "afterTaxReturn": 14.12,
+          "realReturn": 11.06,
+          "dataPoints": 2,
+          "rank": 5
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 16.48,
+          "afterTaxReturn": 14.01,
+          "realReturn": 10.94,
+          "dataPoints": 2,
+          "rank": 6
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 15.98,
+          "afterTaxReturn": 13.58,
+          "realReturn": 10.45,
+          "dataPoints": 2,
+          "rank": 7
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.88,
+          "afterTaxReturn": 13.5,
+          "realReturn": 10.36,
+          "dataPoints": 2,
+          "rank": 8
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 15.88,
+          "afterTaxReturn": 13.5,
+          "realReturn": 10.36,
+          "dataPoints": 2,
+          "rank": 9
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 15.59,
+          "afterTaxReturn": 13.25,
+          "realReturn": 10.09,
+          "dataPoints": 2,
+          "rank": 10
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 15.51,
+          "afterTaxReturn": 13.18,
+          "realReturn": 10,
+          "dataPoints": 2,
+          "rank": 11
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 15.48,
+          "afterTaxReturn": 13.16,
+          "realReturn": 9.98,
+          "dataPoints": 2,
+          "rank": 12
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 15.43,
+          "afterTaxReturn": 13.11,
+          "realReturn": 9.93,
+          "dataPoints": 2,
+          "rank": 13
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 15.29,
+          "afterTaxReturn": 13,
+          "realReturn": 9.8,
+          "dataPoints": 2,
+          "rank": 14
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 15.14,
+          "afterTaxReturn": 12.87,
+          "realReturn": 9.65,
+          "dataPoints": 2,
+          "rank": 15
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 15.06,
+          "afterTaxReturn": 12.8,
+          "realReturn": 9.59,
+          "dataPoints": 2,
+          "rank": 16
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 14.89,
+          "afterTaxReturn": 12.66,
+          "realReturn": 9.42,
+          "dataPoints": 2,
+          "rank": 17
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 14.7,
+          "afterTaxReturn": 12.49,
+          "realReturn": 9.23,
+          "dataPoints": 2,
+          "rank": 18
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 13.82,
+          "afterTaxReturn": 11.75,
+          "realReturn": 8.4,
+          "dataPoints": 2,
+          "rank": 19
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 13.65,
+          "afterTaxReturn": 11.6,
+          "realReturn": 8.24,
+          "dataPoints": 2,
+          "rank": 20
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 13.43,
+          "afterTaxReturn": 11.42,
+          "realReturn": 8.04,
+          "dataPoints": 2,
+          "rank": 21
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 13.25,
+          "afterTaxReturn": 11.25,
+          "realReturn": 7.86,
+          "dataPoints": 2,
+          "rank": 22
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 13.24,
+          "afterTaxReturn": 11.25,
+          "realReturn": 7.85,
+          "dataPoints": 2,
+          "rank": 23
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 12.29,
+          "afterTaxReturn": 10.46,
+          "realReturn": 6.95,
+          "dataPoints": 2,
+          "rank": 24
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 10.06,
+          "afterTaxReturn": 8.55,
+          "realReturn": 4.82,
+          "dataPoints": 2,
+          "rank": 25
         }
-      }
+      ]
     },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 15.163485714285718,
-        "afterTaxReturn": 12.889428571428573,
-        "realReturn": 9.607999999999997
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "MAY 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 15.129999999999999,
-          "afterTaxReturn": 13.035,
-          "realReturn": 9.845
+    {
+      "metadata": {
+        "month": "JUNE 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.16,
+            "afterTaxReturn": 13.08,
+            "realReturn": 9.82,
+            "dataPoints": 7
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.16,
+              "median": 15.17,
+              "stdDev": 0.08
+            },
+            "afterTaxReturn": {
+              "average": 13.08,
+              "median": 13.09,
+              "stdDev": 0.06
+            },
+            "realReturn": {
+              "average": 9.82,
+              "median": 9.78,
+              "stdDev": 0.2
+            },
+            "dataPoints": 7
+          }
+        },
+        "summary": {
+          "totalFunds": 25,
+          "topPerformer": {
+            "name": "Lofty Corban Money Market Fund",
+            "nominalRate": 18.29,
+            "afterTaxReturn": 15.55,
+            "realReturn": 12.59,
+            "dataPoints": 7,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "British-American Money Market Fund",
+            "nominalRate": 9.77,
+            "afterTaxReturn": 8.3,
+            "realReturn": 4.47,
+            "dataPoints": 7,
+            "rank": 25
+          }
         }
-      }
-    },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 15.128800000000002,
-        "afterTaxReturn": 12.859799999999993,
-        "realReturn": 9.6468
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "MARCH 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 14.791999999999998,
-          "afterTaxReturn": 12.744,
-          "realReturn": 8.292
+      },
+      "funds": [
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 18.29,
+          "afterTaxReturn": 15.55,
+          "realReturn": 12.59,
+          "dataPoints": 7,
+          "rank": 1
+        },
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 18.06,
+          "afterTaxReturn": 15.35,
+          "realReturn": 12.37,
+          "dataPoints": 7,
+          "rank": 2
+        },
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 17.61,
+          "afterTaxReturn": 14.97,
+          "realReturn": 11.93,
+          "dataPoints": 7,
+          "rank": 3
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 17.32,
+          "afterTaxReturn": 14.73,
+          "realReturn": 11.67,
+          "dataPoints": 7,
+          "rank": 4
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16.72,
+          "afterTaxReturn": 14.21,
+          "realReturn": 11.09,
+          "dataPoints": 7,
+          "rank": 5
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 16.58,
+          "afterTaxReturn": 14.09,
+          "realReturn": 10.95,
+          "dataPoints": 7,
+          "rank": 6
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 15.78,
+          "afterTaxReturn": 13.42,
+          "realReturn": 10.2,
+          "dataPoints": 7,
+          "rank": 7
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 15.69,
+          "afterTaxReturn": 13.34,
+          "realReturn": 10.1,
+          "dataPoints": 7,
+          "rank": 8
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.61,
+          "afterTaxReturn": 13.27,
+          "realReturn": 10.04,
+          "dataPoints": 7,
+          "rank": 9
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 15.59,
+          "afterTaxReturn": 13.25,
+          "realReturn": 10.01,
+          "dataPoints": 7,
+          "rank": 10
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 15.56,
+          "afterTaxReturn": 13.23,
+          "realReturn": 9.99,
+          "dataPoints": 7,
+          "rank": 11
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 15.43,
+          "afterTaxReturn": 13.12,
+          "realReturn": 9.86,
+          "dataPoints": 7,
+          "rank": 12
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 15.4,
+          "afterTaxReturn": 13.09,
+          "realReturn": 9.83,
+          "dataPoints": 7,
+          "rank": 13
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 15.24,
+          "afterTaxReturn": 12.95,
+          "realReturn": 9.68,
+          "dataPoints": 7,
+          "rank": 14
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 15.21,
+          "afterTaxReturn": 12.93,
+          "realReturn": 9.66,
+          "dataPoints": 7,
+          "rank": 15
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 15.16,
+          "afterTaxReturn": 12.89,
+          "realReturn": 9.6,
+          "dataPoints": 7,
+          "rank": 16
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 15.07,
+          "afterTaxReturn": 12.8,
+          "realReturn": 9.52,
+          "dataPoints": 7,
+          "rank": 17
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 14.9,
+          "afterTaxReturn": 12.66,
+          "realReturn": 9.35,
+          "dataPoints": 7,
+          "rank": 18
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 14.14,
+          "afterTaxReturn": 12.02,
+          "realReturn": 8.63,
+          "dataPoints": 7,
+          "rank": 19
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 14.05,
+          "afterTaxReturn": 11.94,
+          "realReturn": 8.54,
+          "dataPoints": 7,
+          "rank": 20
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 13.49,
+          "afterTaxReturn": 11.46,
+          "realReturn": 8.01,
+          "dataPoints": 7,
+          "rank": 21
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 13.2,
+          "afterTaxReturn": 11.22,
+          "realReturn": 7.74,
+          "dataPoints": 7,
+          "rank": 22
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 12.91,
+          "afterTaxReturn": 10.98,
+          "realReturn": 7.47,
+          "dataPoints": 7,
+          "rank": 23
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 12.3,
+          "afterTaxReturn": 10.46,
+          "realReturn": 6.89,
+          "dataPoints": 7,
+          "rank": 24
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 9.77,
+          "afterTaxReturn": 8.3,
+          "realReturn": 4.47,
+          "dataPoints": 7,
+          "rank": 25
         }
-      }
+      ]
     },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 14.790079999999993,
-        "afterTaxReturn": 12.571759999999998,
-        "realReturn": 8.101200000000002
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "FEBRUARY 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 14.293333333333331,
-          "afterTaxReturn": 12.300000000000002,
-          "realReturn": 7.13
+    {
+      "metadata": {
+        "month": "JULY 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.48,
+            "afterTaxReturn": 13.26,
+            "realReturn": 10.47,
+            "dataPoints": 3
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.48,
+              "median": 15.48,
+              "stdDev": 0.06
+            },
+            "afterTaxReturn": {
+              "average": 13.26,
+              "median": 13.27,
+              "stdDev": 0.04
+            },
+            "realReturn": {
+              "average": 10.47,
+              "median": 10.48,
+              "stdDev": 0.05
+            },
+            "dataPoints": 3
+          }
+        },
+        "summary": {
+          "totalFunds": 25,
+          "topPerformer": {
+            "name": "Cytonn Money Market Fund",
+            "nominalRate": 18.33,
+            "afterTaxReturn": 15.58,
+            "realReturn": 13.08,
+            "dataPoints": 3,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "name": "ICEA Lion Money Market Fund",
+            "nominalRate": 12.71,
+            "afterTaxReturn": 10.8,
+            "realReturn": 7.71,
+            "dataPoints": 3,
+            "rank": 25
+          }
         }
-      }
-    },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 14.2932,
-        "afterTaxReturn": 12.14946666666667,
-        "realReturn": 6.966399999999998
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "month": "JANUARY 2024",
-      "source": "Daily Nation and M-PESA APP",
-      "statistics": {
-        "average": {
-          "nominalRate": 13.742857142857144,
-          "afterTaxReturn": 11.824285714285713,
-          "realReturn": 6.818571428571429
+      },
+      "funds": [
+        {
+          "name": "Cytonn Money Market Fund",
+          "nominalRate": 18.33,
+          "afterTaxReturn": 15.58,
+          "realReturn": 13.08,
+          "dataPoints": 3,
+          "rank": 1
+        },
+        {
+          "name": "Etica Money Market Fund",
+          "nominalRate": 18.32,
+          "afterTaxReturn": 15.57,
+          "realReturn": 13.07,
+          "dataPoints": 3,
+          "rank": 2
+        },
+        {
+          "name": "Lofty Corban Money Market Fund",
+          "nominalRate": 18.29,
+          "afterTaxReturn": 15.55,
+          "realReturn": 13.05,
+          "dataPoints": 3,
+          "rank": 3
+        },
+        {
+          "name": "Kuza Money Market Fund",
+          "nominalRate": 17.51,
+          "afterTaxReturn": 14.89,
+          "realReturn": 12.3,
+          "dataPoints": 3,
+          "rank": 4
+        },
+        {
+          "name": "GenAfrica Money Market Fund",
+          "nominalRate": 16.7,
+          "afterTaxReturn": 14.2,
+          "realReturn": 11.53,
+          "dataPoints": 3,
+          "rank": 5
+        },
+        {
+          "name": "Nabo Africa Money Market Fund",
+          "nominalRate": 16.46,
+          "afterTaxReturn": 13.99,
+          "realReturn": 11.3,
+          "dataPoints": 3,
+          "rank": 6
+        },
+        {
+          "name": "GenCap Hela Imara Money Market Fund",
+          "nominalRate": 16.18,
+          "afterTaxReturn": 13.75,
+          "realReturn": 11.03,
+          "dataPoints": 3,
+          "rank": 7
+        },
+        {
+          "name": "Enwealth Money Market Fund",
+          "nominalRate": 15.88,
+          "afterTaxReturn": 13.5,
+          "realReturn": 10.74,
+          "dataPoints": 3,
+          "rank": 8
+        },
+        {
+          "name": "Jubilee Money Market Fund",
+          "nominalRate": 15.82,
+          "afterTaxReturn": 13.45,
+          "realReturn": 10.68,
+          "dataPoints": 3,
+          "rank": 9
+        },
+        {
+          "name": "Apollo Money Market Fund",
+          "nominalRate": 15.56,
+          "afterTaxReturn": 13.23,
+          "realReturn": 10.44,
+          "dataPoints": 3,
+          "rank": 10
+        },
+        {
+          "name": "Mayfair Money Market Fund",
+          "nominalRate": 15.53,
+          "afterTaxReturn": 13.2,
+          "realReturn": 10.4,
+          "dataPoints": 3,
+          "rank": 11
+        },
+        {
+          "name": "Co-op Money Market Fund",
+          "nominalRate": 15.49,
+          "afterTaxReturn": 13.16,
+          "realReturn": 10.36,
+          "dataPoints": 3,
+          "rank": 12
+        },
+        {
+          "name": "KCB Money Market Fund",
+          "nominalRate": 15.48,
+          "afterTaxReturn": 13.15,
+          "realReturn": 10.35,
+          "dataPoints": 3,
+          "rank": 13
+        },
+        {
+          "name": "Madison Money Market Fund",
+          "nominalRate": 15.36,
+          "afterTaxReturn": 13.06,
+          "realReturn": 10.25,
+          "dataPoints": 3,
+          "rank": 14
+        },
+        {
+          "name": "Sanlam Money Market Fund",
+          "nominalRate": 15.26,
+          "afterTaxReturn": 12.98,
+          "realReturn": 10.15,
+          "dataPoints": 3,
+          "rank": 15
+        },
+        {
+          "name": "Mali Money Market Fund",
+          "nominalRate": 15.12,
+          "afterTaxReturn": 12.85,
+          "realReturn": 10.01,
+          "dataPoints": 3,
+          "rank": 16
+        },
+        {
+          "name": "African Alliance Kenya Money Market Fund",
+          "nominalRate": 15.07,
+          "afterTaxReturn": 12.81,
+          "realReturn": 9.97,
+          "dataPoints": 3,
+          "rank": 17
+        },
+        {
+          "name": "Absa Shilling Money Market Fund",
+          "nominalRate": 15.04,
+          "afterTaxReturn": 12.78,
+          "realReturn": 9.94,
+          "dataPoints": 3,
+          "rank": 18
+        },
+        {
+          "name": "Orient Kasha Money Market Fund",
+          "nominalRate": 14.32,
+          "afterTaxReturn": 12.17,
+          "realReturn": 9.25,
+          "dataPoints": 3,
+          "rank": 19
+        },
+        {
+          "name": "Dry Associates Money Market Fund",
+          "nominalRate": 14.05,
+          "afterTaxReturn": 11.94,
+          "realReturn": 8.99,
+          "dataPoints": 3,
+          "rank": 20
+        },
+        {
+          "name": "Equity Money Market Fund",
+          "nominalRate": 13.85,
+          "afterTaxReturn": 11.77,
+          "realReturn": 8.8,
+          "dataPoints": 3,
+          "rank": 21
+        },
+        {
+          "name": "Old Mutual Money Market Fund",
+          "nominalRate": 13.6,
+          "afterTaxReturn": 11.56,
+          "realReturn": 8.57,
+          "dataPoints": 3,
+          "rank": 22
+        },
+        {
+          "name": "CIC Money Market Fund",
+          "nominalRate": 13.57,
+          "afterTaxReturn": 11.54,
+          "realReturn": 8.53,
+          "dataPoints": 3,
+          "rank": 23
+        },
+        {
+          "name": "British-American Money Market Fund",
+          "nominalRate": 13.49,
+          "afterTaxReturn": 11.47,
+          "realReturn": 8.46,
+          "dataPoints": 3,
+          "rank": 24
+        },
+        {
+          "name": "ICEA Lion Money Market Fund",
+          "nominalRate": 12.71,
+          "afterTaxReturn": 10.8,
+          "realReturn": 7.71,
+          "dataPoints": 3,
+          "rank": 25
         }
-      }
+      ]
     },
-    "funds": [
-      {
-        "fundManager": "undefined",
-        "nominalRate": 13.742571428571432,
-        "afterTaxReturn": 11.681257142857149,
-        "realReturn": 6.663485714285712
-      }
-    ]
-  }
-]
+    {
+      "metadata": {
+        "month": "AUGUST 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.56,
+            "afterTaxReturn": 13.34,
+            "realReturn": 10.89,
+            "dataPoints": 5
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.56,
+              "median": 15.6,
+              "stdDev": 0.09
+            },
+            "afterTaxReturn": {
+              "average": 13.34,
+              "median": 13.34,
+              "stdDev": 0.03
+            },
+            "realReturn": {
+              "average": 10.89,
+              "median": 10.88,
+              "stdDev": 0.03
+            },
+            "dataPoints": 5
+          }
+        },
+        "summary": {
+          "totalFunds": 1,
+          "topPerformer": {
+            "nominalRate": 15.56,
+            "afterTaxReturn": 13.23,
+            "realReturn": 10.77,
+            "dataPoints": 125,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "nominalRate": 15.56,
+            "afterTaxReturn": 13.23,
+            "realReturn": 10.77,
+            "dataPoints": 125,
+            "rank": 1
+          }
+        }
+      },
+      "funds": [
+        {
+          "nominalRate": 15.56,
+          "afterTaxReturn": 13.23,
+          "realReturn": 10.77,
+          "dataPoints": 125,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "month": "SEPTEMBER 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.49,
+            "afterTaxReturn": 13.2,
+            "realReturn": 10.7,
+            "dataPoints": 3
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.49,
+              "median": 15.49,
+              "stdDev": 0.03
+            },
+            "afterTaxReturn": {
+              "average": 13.2,
+              "median": 13.17,
+              "stdDev": 0.07
+            },
+            "realReturn": {
+              "average": 10.7,
+              "median": 10.65,
+              "stdDev": 0.08
+            },
+            "dataPoints": 3
+          }
+        },
+        "summary": {
+          "totalFunds": 1,
+          "topPerformer": {
+            "nominalRate": 15.49,
+            "afterTaxReturn": 13.17,
+            "realReturn": 10.66,
+            "dataPoints": 77,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "nominalRate": 15.49,
+            "afterTaxReturn": 13.17,
+            "realReturn": 10.66,
+            "dataPoints": 77,
+            "rank": 1
+          }
+        }
+      },
+      "funds": [
+        {
+          "nominalRate": 15.49,
+          "afterTaxReturn": 13.17,
+          "realReturn": 10.66,
+          "dataPoints": 77,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "month": "OCTOBER 2024",
+        "source": "Daily Nation and M-PESA APP",
+        "statistics": {
+          "average": {
+            "nominalRate": 15.17,
+            "afterTaxReturn": 12.92,
+            "realReturn": 11.23,
+            "dataPoints": 4
+          },
+          "detailed": {
+            "nominalRate": {
+              "average": 15.17,
+              "median": 15.17,
+              "stdDev": 0.02
+            },
+            "afterTaxReturn": {
+              "average": 12.92,
+              "median": 12.9,
+              "stdDev": 0.05
+            },
+            "realReturn": {
+              "average": 11.23,
+              "median": 11.21,
+              "stdDev": 0.06
+            },
+            "dataPoints": 4
+          }
+        },
+        "summary": {
+          "totalFunds": 1,
+          "topPerformer": {
+            "nominalRate": 15.17,
+            "afterTaxReturn": 12.9,
+            "realReturn": 11.22,
+            "dataPoints": 106,
+            "rank": 1
+          },
+          "bottomPerformer": {
+            "nominalRate": 15.17,
+            "afterTaxReturn": 12.9,
+            "realReturn": 11.22,
+            "dataPoints": 106,
+            "rank": 1
+          }
+        }
+      },
+      "funds": [
+        {
+          "nominalRate": 15.17,
+          "afterTaxReturn": 12.9,
+          "realReturn": 11.22,
+          "dataPoints": 106,
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
